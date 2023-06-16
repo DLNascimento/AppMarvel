@@ -15,9 +15,14 @@ Sei que o aplicativo pode ser melhorado, e pretendo fazer isso para continuar la
 - Material Design
 
  ## Splash Screen
-  ![splashscreen](https://github.com/DLNascimento/AppMarvel/assets/101856083/543617f8-6ba5-44d8-bb67-4b2845534e82)
+  ![splashscreen](https://github.com/DLNascimento/AppMarvel/assets/101856083/68ad5467-6534-43e0-9015-806b2d2b27a3)
  ## Home Screen
-  ![homescreen](https://github.com/DLNascimento/AppMarvel/assets/101856083/ca7c46ae-dfc3-4b1e-b5a8-cdc6bd7ba6e4)
+  ![homescreen](https://github.com/DLNascimento/AppMarvel/assets/101856083/7830059b-c206-4605-802e-a1925dd68abf)
  ## Search Bar
-  ![searchscreen](https://github.com/DLNascimento/AppMarvel/assets/101856083/06885fb0-721f-4b39-825f-a883bc2a1638)
+  ![searchscreen](https://github.com/DLNascimento/AppMarvel/assets/101856083/bca07f8d-70fb-484f-8aab-3b1234dc9f93)
+
+
+  
+
+
   
