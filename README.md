@@ -9,6 +9,7 @@ Sei que o aplicativo pode ser melhorado, e pretendo fazer isso para continuar la
 - Arquitetura MVVM
 - Coroutines
 - Retrofit
+- Dagger Hilt
 - Flow
 - StateFlow
 - Navigation
